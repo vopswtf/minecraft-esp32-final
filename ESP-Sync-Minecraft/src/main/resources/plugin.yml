@@ -1,0 +1,5 @@
+name: ESP-Sync
+version: '1.0-SNAPSHOT'
+main: cc.vops.esp.ESPSync
+api-version: '1.21'
+authors: [ vopswtf ]

@@ -38,3 +38,11 @@ ESP-Sync is a project that integrates an ESP32 microcontroller with a Minecraft 
 
 ## Personal Thoughts
 This was a fun project to get working, I'm glad I got it to the point where it is (100% grade!). With some more time, I could probably improve optimization and implement some more ideas I had. One of the big optimizations would be to improve rendering time of the map -> screen (current avg: 6.4s). One of the ideas I had thought of was to make a fake player (NPC) and make a seperate ESP32 act as a controller with joysticks, buttons, etc. This is still a cool idea so I may implement it in the future.
+
+## Acknowledgements
+![YourKit](https://www.yourkit.com/images/yk_logo.svg)
+
+I am grateful to *YourKit* for providing its full-featured Java Profiler free to open source projects.  
+YourKit, LLC is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/index.jsp) and  
+[YourKit .NET Profiler](https://www.yourkit.com/.net/profiler/index.jsp), innovative and intelligent tools.
+for profiling Java and .NET applications.
